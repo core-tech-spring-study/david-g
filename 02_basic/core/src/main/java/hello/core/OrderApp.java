@@ -11,6 +11,7 @@ import hello.core.order.OrderServiceImpl;
 public class OrderApp {
 
     public static void main(String[] args) {
+        /*
         MemberService memberService = new MemberServiceImpl();
         OrderService orderService = new OrderServiceImpl();
 
@@ -22,5 +23,7 @@ public class OrderApp {
 
         System.out.println("order = " + order);
         System.out.println("order = " + order.calculatePrice());
+
+         */
     }
 }
